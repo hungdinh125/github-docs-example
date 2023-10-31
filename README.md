@@ -33,6 +33,9 @@ NameError: name 'non_existent_variable' is not defined
 ```
 > Here is an example of python error.
 
+## Step 2 - How to take screenshot
+Do not upload a part of your code as it is difficult to understand the full context.
+
 ## Step 3 - Use Git hub Flavored Markdown task lists
 
 Github extends markdown to have a list where you can check off items. [<sup>[1]</sup>](#references)
