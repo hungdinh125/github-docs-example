@@ -66,6 +66,9 @@ Github extends the functionality of markdown table to provide more alignment and
 
 ## Step 6 - Link to another file
 Github supports to link to documents in other places.
+
+> Below is an example of linking to markdown file in misc folder
+
 [Ironman](/misc/ironman.md)
 
 ## References
