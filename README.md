@@ -35,14 +35,14 @@ NameError: name 'non_existent_variable' is not defined
 
 ## Step 3 - Use Git hub Flavored Markdown task lists
 
-Github extends markdown to have a list where you can check off items. <sup>[1]</sup>
+Github extends markdown to have a list where you can check off items. [<sup>[1]</sup>](#references)
 - [x] Finish step 1
 - [ ] Finish step 2
 - [ ] Finish step 3
 
 ## Step 4 - Use Emojis (optional)
 
-Github Flavoured Markdown (GFM) supports emoji shortcodes.
+Github Flavoured Markdown (GFM) supports emoji shortcodes. [<sup>[3]</sup>](#references)
 Here are some examples:
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
