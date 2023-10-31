@@ -64,6 +64,10 @@ Github extends the functionality of markdown table to provide more alignment and
 | Rainbow | `:rainbow:` | 🌈 |
 ```
 
+## Step 6 - Link to another file
+Github supports to link to documents in other places.
+[Ironman](/misc/ironman.md)
+
 ## References
 - [Github Flavored Markdown Spec](https://github.github.com/gfm/) <sup>[1]</sup>
 - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sup>[2]</sup>
