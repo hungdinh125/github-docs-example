@@ -43,7 +43,8 @@ Github extends markdown to have a list where you can check off items. [<sup>[1]<
 ## Step 4 - Use Emojis (optional)
 
 Github Flavoured Markdown (GFM) supports emoji shortcodes. [<sup>[3]</sup>](#references)
-Here are some examples:
+- Here are some examples:
+  
 | Name | Shortcode | Emoji |
 | --- | --- | --- |
 | Yummy | `:yum:` | 😋 |
